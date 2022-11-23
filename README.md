@@ -1,5 +1,32 @@
-<h1>Belajar Fundamental Front-End Web Development</h1>
+# Belajar Fundamental Front-End Web Development
 
-<h2>Submission Project</h2>
-<img src="https://github.com/dimmasyusuf/repo-finder/blob/main/screenshot/submission-project.png" alt="Submission Project" />
+## Preview
+![Submission Project](https://github.com/dimmasyusuf/repo-finder/blob/main/screenshot/submission-project.png "Submission Project")
 
+## Get Started
+1. Clone Repository
+```bash
+git clone https://github.com/dimmasyusuf/repo-finder.git
+```
+
+2. Open Directory
+```bash
+cd repo-finder
+```
+
+3. Install Packages
+```bash
+npm install
+```
+
+4. Start Server
+```bash
+npm run start-dev
+```
+
+## Build for Production
+
+- Build
+```bash
+npm run build
+```
