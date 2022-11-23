@@ -1,2 +1,5 @@
-# repo-finder
-#14. "Belajar Fundamental Front-End Web Development" is the fourth class that I have studied at Dicoding Indonesia. The lessons I've learned include ECMAScript 6, Web Components, Node Package Manager, Webpack, and Asynchronous JavaScript Requests. Evaluation of learning is done by creating a website that applies all the lessons that I have learned.
+<h1>Belajar Fundamental Front-End Web Development</h1>
+
+<h2>Submission Project</h2>
+<img src="https://github.com/dimmasyusuf/repo-finder/blob/main/screenshot/submission-project.png" alt="Submission Project" />
+
